@@ -12,11 +12,11 @@
             "scaleInDock": 1
         },
         "Inside_Village_NPC.tmx": {
-            "scale": 1,
+            "scale": 0.6723,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 248,
-                "y": 250.5
+                "x": 473.0031236055332,
+                "y": 490.1085824780604
             }
         },
         "Inside_Village_NPC.tmx#PixelFantasy_Inside_A1": {
@@ -104,14 +104,55 @@
         },
         "Vilage.tmx#PixelFantasy_Outside_D-Trees": {
             "scaleInDock": 1
+        },
+        "blacksmith.tmx": {
+            "scale": 0.6529,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 470.2098330525348,
+                "y": 457.1909940266503
+            }
+        },
+        "blacksmith.tmx#$PixelFantasy_1-Reid": {
+            "scaleInDock": 1
+        },
+        "blacksmith.tmx#$PixelFantasy_3-Gale": {
+            "scaleInDock": 1
+        },
+        "blacksmith.tmx#FCharacter2": {
+            "scaleInDock": 1
+        },
+        "blacksmith.tmx#FCharacter3": {
+            "scaleInDock": 1
+        },
+        "blacksmith.tmx#MCharacter3": {
+            "scaleInDock": 1
+        },
+        "blacksmith.tmx#PixelFantasy_Inside_A1": {
+            "scaleInDock": 1
+        },
+        "blacksmith.tmx#PixelFantasy_Inside_A2": {
+            "scaleInDock": 1
+        },
+        "blacksmith.tmx#PixelFantasy_Inside_A4": {
+            "scaleInDock": 1
+        },
+        "blacksmith.tmx#PixelFantasy_Inside_A5": {
+            "scaleInDock": 1
+        },
+        "blacksmith.tmx#PixelFantasy_Inside_B": {
+            "scaleInDock": 1
+        },
+        "blacksmith.tmx#PixelFantasy_Inside_C": {
+            "scaleInDock": 1
         }
     },
     "last.imagePath": "/Users/joaorobertoc.capucho/Developments/Map/Pixel Fantasy RMMZ RTP Tiles/img/tilesets",
-    "map.height": 10,
+    "map.height": 40,
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 48,
     "map.tileWidth": 48,
-    "map.width": 10,
+    "map.width": 40,
     "openFiles": [
         "Vilage.tmx"
     ],
