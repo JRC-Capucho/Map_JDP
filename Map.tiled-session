@@ -1,0 +1,127 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Vilage.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "Inside_Village_NPC.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 248,
+                "y": 250.5
+            }
+        },
+        "Inside_Village_NPC.tmx#PixelFantasy_Inside_A1": {
+            "scaleInDock": 1
+        },
+        "Inside_Village_NPC.tmx#PixelFantasy_Inside_A2": {
+            "scaleInDock": 1
+        },
+        "Inside_Village_NPC.tmx#PixelFantasy_Inside_A4": {
+            "scaleInDock": 1
+        },
+        "Inside_Village_NPC.tmx#PixelFantasy_Inside_A5": {
+            "scaleInDock": 1
+        },
+        "Inside_Village_NPC.tmx#PixelFantasy_Inside_B": {
+            "scaleInDock": 1
+        },
+        "Inside_Village_NPC.tmx#PixelFantasy_Inside_C": {
+            "scaleInDock": 1
+        },
+        "Vilage.tmx": {
+            "scale": 0.605,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 576.8595041322315,
+                "y": 904.9586776859504
+            }
+        },
+        "Vilage.tmx#PixelFantasy_Dungeon_A1": {
+            "scaleInDock": 1
+        },
+        "Vilage.tmx#PixelFantasy_Dungeon_A2": {
+            "scaleInDock": 1
+        },
+        "Vilage.tmx#PixelFantasy_Dungeon_A4": {
+            "scaleInDock": 1
+        },
+        "Vilage.tmx#PixelFantasy_Dungeon_A5": {
+            "scaleInDock": 1
+        },
+        "Vilage.tmx#PixelFantasy_Dungeon_B": {
+            "scaleInDock": 1
+        },
+        "Vilage.tmx#PixelFantasy_Dungeon_C": {
+            "scaleInDock": 1
+        },
+        "Vilage.tmx#PixelFantasy_Inside_A1": {
+            "scaleInDock": 1
+        },
+        "Vilage.tmx#PixelFantasy_Inside_A2": {
+            "scaleInDock": 1
+        },
+        "Vilage.tmx#PixelFantasy_Inside_A4": {
+            "scaleInDock": 1
+        },
+        "Vilage.tmx#PixelFantasy_Inside_A5": {
+            "scaleInDock": 1
+        },
+        "Vilage.tmx#PixelFantasy_Inside_B": {
+            "scaleInDock": 1
+        },
+        "Vilage.tmx#PixelFantasy_Inside_C": {
+            "scaleInDock": 1
+        },
+        "Vilage.tmx#PixelFantasy_Outside_A1": {
+            "scaleInDock": 1
+        },
+        "Vilage.tmx#PixelFantasy_Outside_A2": {
+            "scaleInDock": 1
+        },
+        "Vilage.tmx#PixelFantasy_Outside_A3": {
+            "scaleInDock": 1.5865
+        },
+        "Vilage.tmx#PixelFantasy_Outside_A4": {
+            "scaleInDock": 1
+        },
+        "Vilage.tmx#PixelFantasy_Outside_A5": {
+            "scaleInDock": 1
+        },
+        "Vilage.tmx#PixelFantasy_Outside_B": {
+            "scaleInDock": 1
+        },
+        "Vilage.tmx#PixelFantasy_Outside_C": {
+            "scaleInDock": 1
+        },
+        "Vilage.tmx#PixelFantasy_Outside_D-Trees": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "/Users/joaorobertoc.capucho/Developments/Map/Pixel Fantasy RMMZ RTP Tiles/img/tilesets",
+    "map.height": 10,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 48,
+    "map.tileWidth": 48,
+    "map.width": 10,
+    "openFiles": [
+        "Vilage.tmx"
+    ],
+    "project": "Map.tiled-project",
+    "recentFiles": [
+        "Vilage.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 48,
+        "width": 48
+    }
+}
