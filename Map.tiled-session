@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Dungeon_Boss.tmx",
+    "activeFile": "",
     "expandedProjectPaths": [
         "."
     ],
@@ -33,8 +33,8 @@
             "scale": 0.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 569,
-                "y": 955
+                "x": 567,
+                "y": 952
             }
         },
         "Dungeon.tmx#PixelFantasy_Dungeon_A1": {
@@ -65,8 +65,8 @@
             "scale": 0.75,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 376.66666666666663,
-                "y": 480.66666666666663
+                "x": 361.99999999999994,
+                "y": 478.66666666666674
             }
         },
         "Dungeon_Boss.tmx#PixelFantasy_Dungeon_A1": {
@@ -91,8 +91,8 @@
             "scale": 0.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 737,
-                "y": 667
+                "x": 735,
+                "y": 666
             }
         },
         "Dungeon_Part_II.tmx#PixelFantasy_Dungeon_A1": {
@@ -117,8 +117,8 @@
             "scale": 1.1125,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 359.99999999999994,
-                "y": 360
+                "x": 358.2022471910112,
+                "y": 359.5505617977528
             }
         },
         "Inside_Village_NPC.tmx#PixelFantasy_Inside_A1": {
@@ -143,8 +143,8 @@
             "scale": 0.33,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 743.9393939393939,
-                "y": 877.2727272727274
+                "x": 740.9090909090909,
+                "y": 875.7575757575759
             }
         },
         "Vilage.tmx#PixelFantasy_Dungeon_A1": {
@@ -211,8 +211,8 @@
             "scale": 1.08,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 479.16666666666663,
-                "y": 478.24074074074065
+                "x": 477.3148148148148,
+                "y": 475.9259259259258
             }
         },
         "blacksmith.tmx#$PixelFantasy_1-Reid": {
@@ -252,8 +252,8 @@
             "scale": 0.4475,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1151.95530726257,
-                "y": 1189.9441340782123
+                "x": 1149.7206703910615,
+                "y": 1186.5921787709494
             }
         },
         "forest.tmx#$PixelFantasy_3-Gale": {
@@ -299,30 +299,25 @@
             "scaleInDock": 1
         }
     },
+    "last.exportedFilePath": "/home/austronaut/.ghq/github.com/JRC-Capucho/Map_JDP",
     "last.imagePath": "/Users/joaorobertoc.capucho/Developments/Map/Pixel Fantasy RMMZ RTP Tiles/img/tilesets",
     "map.height": 20,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 48,
     "map.tileWidth": 48,
     "map.width": 20,
     "openFiles": [
-        "Vilage.tmx",
-        "Inside_Village_NPC.tmx",
-        "blacksmith.tmx",
-        "forest.tmx",
-        "Dungeon.tmx",
-        "Dungeon_Part_II.tmx",
-        "Dungeon_Boss.tmx"
     ],
     "project": "Map.tiled-project",
     "recentFiles": [
-        "Vilage.tmx",
-        "Inside_Village_NPC.tmx",
-        "blacksmith.tmx",
-        "forest.tmx",
-        "Dungeon.tmx",
+        "Dungeon_Boss.tmx",
         "Dungeon_Part_II.tmx",
-        "Dungeon_Boss.tmx"
+        "Dungeon.tmx",
+        "forest.tmx",
+        "blacksmith.tmx",
+        "Inside_Village_NPC.tmx",
+        "Vilage.tmx"
     ],
     "tileset.embedInMap": true,
     "tileset.tileSize": {
